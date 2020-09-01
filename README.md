@@ -13,7 +13,7 @@ Use the ICAO code EGTY to locate the airport on the Microsoft Flight Simulator m
 Unzip the folder "thegarner-airport-egty-strathavenairfield.zip" and copy the folder: "thegarner-airport-egty-strathavenairfield" into your Microsoft Flight Simulator installation directory under the "Community" folder.
 
 # Features
-* All runways have been added - I have included numebr markings on the main runway. 
+* All runways have been added - I have added numebr markings to the main runway (Runway 27/09).
 * Multiple parking Stands
 * Couple of static aircraft
 * Fences surrounding the airfield
