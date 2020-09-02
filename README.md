@@ -22,3 +22,7 @@ Unzip the folder "thegarner-airport-egty-strathavenairfield.zip" and copy the fo
 * Hangars
 * Car Park
 * Couple of lights to lit certain areas in darkness
+
+# Version Changelog
+v1.1 (Released 2nd Sept 2020)
+* Applied fix to the windsock. If you have the airfield already installed and do not care for these changes then you can ignore this update.
